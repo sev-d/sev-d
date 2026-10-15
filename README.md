@@ -1,5 +1,4 @@
-👋 Hi, I'm Severine Drin
-Welcome to my GitHub! I'm currently pursuing a Master of Computing and Innovation at the University of Adelaide, and I'm passionate about applying my technical expertise to solve real-world problems, especially in data analysis, bioinformatics, and software development. Here, you'll find some projects I've worked on and ongoing work as I expand my knowledge and skills in the tech space.
+👋 Welcome to my GitHub!
 
 💻 Technical Projects:  
 **Expense Forecaster**: I built a React-based financial forecasting app with Material-UI, Chart.js, and custom state management to improve workflow efficiency for business financial tracking.  
